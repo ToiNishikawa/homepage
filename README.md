@@ -1,3 +1,3 @@
-# my-homepage
+# My homepage
 
-https://toui-nishikawa.com/
+https://toi-nishikawa.com/
