@@ -390,7 +390,7 @@ nav .inner ul li a:hover {
 }
 
 
-@media screen and (min-width: calc(100vh*16/9)) {
+@media screen and (min-width:100vh) {
   .video{
     top:-30px;
     left:0;
@@ -446,7 +446,7 @@ nav .inner ul li a:hover {
   font-size: 5vw;
   line-height: 7vw;
 }
-@media screen and (min-width: calc(100vh*16/9)) {
+@media screen and (min-width:100vh) {
   #top{
     position: fixed;
     top:0;
@@ -505,7 +505,7 @@ nav .inner ul li a:hover {
 }
 
 
-@media screen and (min-width: calc(100vh*16/9)) {
+@media screen and (min-width:100vh) {
   #scroll_area{
     top:70vh;
     left: 40vw;
@@ -524,7 +524,7 @@ nav .inner ul li a:hover {
   background-color: rgba(240, 240, 240,0.8);
 }
 
-@media screen and (min-width: calc(100vh*16/9)) {
+@media screen and (min-width:100vh) {
   #profile_area{
     top: 100vh;
     left: 35vw;
@@ -537,7 +537,7 @@ nav .inner ul li a:hover {
   width: 90vw;
 }
 
-@media screen and (min-width: calc(100vh*16/9)) {
+@media screen and (min-width:100vh) {
   .box{
     margin-left: 2.5vw;
     margin-right: 2.5vw;
@@ -622,7 +622,7 @@ nav .inner ul li a:hover {
   font-size: 3.2vw;
   line-height: 4.5vw;
 }
-@media screen and (min-width: calc(100vh*16/9)) {
+@media screen and (min-width:100vh) {
   .skill_box{
     height: 14vh;
     margin-bottom: 3vh;
@@ -661,7 +661,7 @@ nav .inner ul li a:hover {
   margin-bottom: 7vh;
 }
 
-@media screen and (min-width: calc(100vh*16/9)) {
+@media screen and (min-width:100vh) {
   #sign_image{
     left: 2.5vw;
     width: 40vw;
@@ -699,7 +699,7 @@ nav .inner ul li a:hover {
   line-height: 6vw;
 }
 
-@media screen and (min-width: calc(100vh*16/9)) {
+@media screen and (min-width:100vh) {
   .text_L{
     position: relative;
     color: rgba(0,0,0,1);
@@ -719,7 +719,7 @@ nav .inner ul li a:hover {
   font-size: 4vw;
   line-height: 6vw;
 }
-@media screen and (min-width: calc(100vh*16/9)) {
+@media screen and (min-width:100vh) {
   .text_M{
     left: 2vw;
     position: relative;
@@ -740,7 +740,7 @@ nav .inner ul li a:hover {
   font-size: 3.2vw;
   line-height: 4.5vw;
 }
-@media screen and (min-width: calc(100vh*16/9)) {
+@media screen and (min-width:100vh) {
   .text_S{
     left: 2vw;
     position: relative;
