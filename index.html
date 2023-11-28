@@ -855,13 +855,6 @@
   var $timeline_text_4  = $('#timeline-text_4');
   var expand   = 'expand';
   
-  $(document).ready( function(){
-    $timeline_1.addClass( expand );
-      $circle2_1.addClass( expand );
-      $arrow_1.addClass( expand );
-      $timeline_text_1.addClass( expand );
-  });
-
   $border_1.on( 'click', function() {
     if (! $timeline_1.hasClass( expand ) ) {
       $timeline_1.addClass( expand );
@@ -885,6 +878,10 @@
       $timeline_text_4.removeClass( expand );
 
     }else {
+      $timeline_1.removeClass( expand );
+      $circle2_1.removeClass( expand );
+      $arrow_1.removeClass( expand );
+      $timeline_text_1.removeClass( expand );
     }
   });
 
@@ -912,6 +909,10 @@
       $timeline_text_4.removeClass( expand );
 
     }else {
+      $timeline_2.removeClass( expand );
+      $circle2_2.removeClass( expand );
+      $arrow_2.removeClass( expand );
+      $timeline_text_2.removeClass( expand );
     }
   });
 
@@ -938,6 +939,10 @@
       $arrow_4.removeClass( expand );
       $timeline_text_4.removeClass( expand );
     }else {
+      $timeline_3.removeClass( expand );
+      $circle2_3.removeClass( expand );
+      $arrow_3.removeClass( expand );
+      $timeline_text_3.removeClass( expand );
     }
   });
 
@@ -965,6 +970,10 @@
       $timeline_text_3.removeClass( expand );
 
     }else {
+      $timeline_4.removeClass( expand );
+      $circle2_4.removeClass( expand );
+      $arrow_4.removeClass( expand );
+      $timeline_text_4.removeClass( expand );
     }
   });
 
