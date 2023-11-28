@@ -448,10 +448,12 @@ nav .inner ul li a:hover {
 }
 @media screen and (min-width:100vh) {
   #top{
+    overflow: hidden;
     position: fixed;
     top:0;
     left: 0vw;
     width:40vw;
+    height: 100vh;
   }
   #top_title_back_1{
     position: relative;
