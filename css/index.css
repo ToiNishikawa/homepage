@@ -499,6 +499,8 @@ nav .inner ul li a:hover {
   left: 0vw;
   width:100vw;
   height:30vh;
+  overflow-x: hidden;
+  overflow-y: scroll;
   position: relative;
   background-color: rgba(256, 256, 25,0);
 }
