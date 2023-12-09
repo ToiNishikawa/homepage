@@ -404,6 +404,8 @@ nav .inner ul li a:hover {
 #top{
   height: 70vh;
   width:100vw;
+  overflow-x: hidden;
+  overflow-y: scroll;
   background-color: rgba(240, 240, 40,0);
 }
 
