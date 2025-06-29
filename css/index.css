@@ -40,7 +40,7 @@ body::-webkit-scrollbar {  /* Chrome, Safari 対応 */
 
 /* Hide Loading Block */
 .loaded {
-  display: none;
+  height: 0vh;
   opacity: 0;
   visibility: hidden;
 }
