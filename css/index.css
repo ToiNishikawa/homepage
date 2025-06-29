@@ -312,10 +312,10 @@ nav .inner ul li a:hover {
 @media screen and (min-width:100vh) {
   .X{
     position: fixed;
-    height: 6vw;
-    width: 4vw;
+    height: auto;
+    width: 4%;
     top: 65vh;
-    left: 95vw;
+    left: 95%;
     opacity: 0.7;
   }
   .X:hover {
@@ -324,9 +324,9 @@ nav .inner ul li a:hover {
   .Facebook{
     position: fixed;
     height: 6vw;
-    width: 4vw;
+    width: 4%;
     top: 75vh;
-    left: 95vw;
+    left: 95%;
     opacity: 0.45;
   }
   .Facebook:hover {
@@ -335,9 +335,9 @@ nav .inner ul li a:hover {
   .Instagram{
     position: fixed;
     height: 6vw;
-    width: 4vw;
+    width: 4%;
     top: 85vh;
-    left: 95vw;
+    left: 95%;
     opacity: 0.7;
   }
   .Instagram:hover {
@@ -345,9 +345,9 @@ nav .inner ul li a:hover {
   }
   .eng{
     position: fixed;
-    width: 4vw;
+    width: 7%;
     top: 50vh;
-    left: 95vw;
+    left: 93%;
     opacity: 0.7;
   }
   .eng:hover {
