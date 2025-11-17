@@ -571,9 +571,8 @@ nav .inner ul li a:hover {
 #papers_box{
   position: relative;
   background-color: rgba(225,225,225,0);
-  height:80vh;
-  width:100%;
-  overflow: scroll;
+  width:90%;
+  /*overflow: scroll;*/
 }
 
 .scroll_image_paper{
